@@ -1,37 +1,53 @@
 ## Profile
+
 Hi! I'm Erin "Saishy" Calmon, the founder of [TinyBird Games](http://www.tinybirdgames.com/).
+
 I'm a game developer focused on game design and programming.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r1GzOadFYpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## TinyAttack
 
-### Markdown
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kPSaNvaHgPk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TinyAttack is an online multiplayer roguelike game.
 
-```markdown
-Syntax highlighted code block
+## Procedural Dungeon Generator
 
-# Header 1
-## Header 2
-### Header 3
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16wfRL6fTpQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- Bulleted
-- List
+A small project that generates random dungeons based on the rules of the tabletop D&D game.
 
-1. Numbered
-2. List
+## Tomb Raider Memories
 
-**Bold** and _Italic_ and `Code` text
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wBJvPfDjlY4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Link](url) and ![Image](src)
-```
+I worked as the solo programmer for this indie game.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Grimoire: Manastorm
 
-### Jekyll Themes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UuIDnAIDB6c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Saishy/saishy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Lead Programmer, UDK engine.
 
-### Support or Contact
+## Wondaafarm
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F3rciOQNymM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Html5 facebook social game.
+
+## AI Squad
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bsTjErjrx8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+AI Programming Request
+
+## 2.5D Camera
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_pqcnxNuZQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+A proof of concept on Unity3D.
+
+## Tile Collision
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hYn1EahFR-8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Implementation of old-school platformer colliders.
