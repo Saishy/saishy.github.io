@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Profile
+Hi! I'm Erin "Saishy" Calmon, the founder of [TinyBird Games](http://www.tinybirdgames.com/).
+I'm a game developer focused on game design and programming.
 
-You can use the [editor on GitHub](https://github.com/Saishy/saishy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r1GzOadFYpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Markdown
 
