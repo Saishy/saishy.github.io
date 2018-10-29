@@ -6,6 +6,15 @@ Hi! I'm Erin "Saishy" Calmon, the founder of [TinyBird Games](http://www.tinybir
 
 I'm a game developer focused on game design and programming.
 
+### Skills
+
+- C#
+- C / C++
+- SQL
+- Javascript / CSS / Html
+- Node.js
+- PHP
+
 ## TinyAttack
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kPSaNvaHgPk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
