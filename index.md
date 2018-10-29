@@ -1,5 +1,7 @@
 ## Profile
 
+[![TinyBird Games](/assets/logo_light_horizontal.png)](https://www.patreon.com/TinyBirdGames)
+
 Hi! I'm Erin "Saishy" Calmon, the founder of [TinyBird Games](http://www.tinybirdgames.com/).
 
 I'm a game developer focused on game design and programming.
