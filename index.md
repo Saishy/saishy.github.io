@@ -10,10 +10,8 @@ I'm a game developer focused on game design and programming.
 
 - C#
 - C / C++
-- SQL
-- Javascript / CSS / Html
-- Node.js
-- PHP
+- Front and Backend
+- Unity3D
 
 ## TinyAttack
 
